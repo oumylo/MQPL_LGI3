@@ -240,7 +240,7 @@ if __name__ == "__main__":
         "Linguere Service", "Agence de recrutement", "01/11/2023", "03/06/2024", 3000000
     )
 
-    # Configuration du contexte de notification
+
     notification_strategy = EmailNotificationStrategy()
     notification_context = NotificationContext(notification_strategy)
     projet.definir_notification_context(notification_context)
