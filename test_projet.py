@@ -1,5 +1,6 @@
 """
-Module de test pour la classe Projet et ses méthodes associées.
+Projet de MQPL de Mame Diarra Beye et Oumy Lo
+
 """
 
 import unittest
