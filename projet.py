@@ -1,3 +1,6 @@
+"""
+Projet de Mame Diarra Beye et Oumy LO
+"""
 from datetime import datetime
 
 
